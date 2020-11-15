@@ -12,23 +12,40 @@
 
 <i>Welcome to my special Github profile ReadMe <br /> I try to have fun even when I'm at work, and I think you should try it too</i>
 
-<em>My portfolio:</em>
-<ul class="col-4">
-  <h3>Full-stack Web Development:</h3> <br />
-  <p>
-  <ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>JavaScript (including ES6, ES2017 & ES2018)</li>
-    <li>OOP PHP</li>
-    <li>PHP CodeIgniter</li>
-    <li>SQL & MySQL</li>
-    <li>Node.js & Express.js</li>
-    <li>MongoDB & Mongoose</li>
-    <li>React.js</li>
-    <li>Vue.js</li>
-  </ul>
-</ul>
+<table>
+  <tr>
+    <th>
+      <em>My portfolio:</em>
+      <p class="col-4">
+        <h3>Full-stack Web Development:</h3> <br />
+        <p>
+        <ul>
+          <li>HTML5</li>
+          <li>CSS3</li>
+          <li>JavaScript (including ES6, ES2017 & ES2018)</li>
+          <li>OOP PHP</li>
+          <li>PHP CodeIgniter</li>
+          <li>SQL & MySQL</li>
+          <li>Node.js & Express.js</li>
+          <li>MongoDB & Mongoose</li>
+          <li>React.js</li>
+          <li>Vue.js</li>
+        </ul>
+      </p>
+    </th>
+    <th>
+      <em>My portfolio:</em>
+      <p class="col-4">
+        <h3>Cross-platform Mobile Development:</h3> <br />
+        <p>
+        <ul>
+          <li>React Native</li>
+        </ul>
+      </p>
+    </th>
+   </tr>
+ </table>
+
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
