@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+ </head>
+
 <h1 align="center">Awesome GitHub Profile README</h1>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -9,7 +13,7 @@
 <i>Welcome to my special Github profile ReadMe <br /> I try to have fun even when I'm at work, and I think you should try it too</i>
 
 <em>My portfolio:</em>
-<ul>
+<ul class="col-4">
   <h3>Full-stack Web Development:</h3> <br />
   <p>
   <ul>
