@@ -8,7 +8,14 @@
 
 <i>Welcome to my special Github profile ReadMe <br /> I try to have fun even when I'm at work, and I think you should try it too</i>
 
-<em><i>Languages</i>12</em>
+<em>My portfolio:</em>
+<ul>
+  <h3>Full-stack Web Development:</h3> <br />
+  <p>
+  <ul>
+    <li>HTML5</li>
+  </ul>
+</ul>
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
