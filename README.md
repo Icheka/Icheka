@@ -14,6 +14,15 @@
   <p>
   <ul>
     <li>HTML5</li>
+    <li>CSS3</li>
+    <li>JavaScript (including ES6, ES2017 & ES2018)</li>
+    <li>OOP PHP</li>
+    <li>PHP CodeIgniter</li>
+    <li>SQL & MySQL</li>
+    <li>Node.js & Express.js</li>
+    <li>MongoDB & Mongoose</li>
+    <li>React.js</li>
+    <li>Vue.js</li>
   </ul>
 </ul>
 
