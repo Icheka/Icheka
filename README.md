@@ -43,8 +43,28 @@
         </ul>
       </p>
     </th>
+    <th>
+      <em>My portfolio:</em>
+      <p class="col-4">
+        <h3>Other Skills:</h3> <br />
+        <p>
+        <ul>
+          <li>Webscraping: Python</li>
+          <li>Desktop Software Development: Electron.js</li>
+          <li>Database Design/ Management: SQL </li>
+          
+        </ul>
+      </p>
+    </th>
    </tr>
  </table>
+ 
+ <div style="color: white; background-color: blue;">
+  Visit <a href="https://flashup24.com/icheka">my portfolio page</a>:
+ </div>
+ <div style="color: white; background-color: red;">
+  I blog about life as a software developer: <a href="https://flashup24.com/icheka">  </a>
+  </div>
 
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
