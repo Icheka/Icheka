@@ -52,7 +52,6 @@
           <li>Webscraping: Python</li>
           <li>Desktop Software Development: Electron.js</li>
           <li>Database Design/ Management: SQL </li>
-          
         </ul>
       </p>
     </th>
