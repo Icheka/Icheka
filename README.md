@@ -30,6 +30,8 @@
           <li>MongoDB & Mongoose</li>
           <li>React.js</li>
           <li>Vue.js</li>
+          <li>TypeScript</li>
+          <li>Sass</li>
         </ul>
       </p>
     </th>
