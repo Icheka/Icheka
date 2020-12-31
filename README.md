@@ -12,7 +12,8 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Hi,%20there!&style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://flashup24.com"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Contact%20Me&color=7289DA" alt="Join Community Badge"/></a><br>
 
-I love coding (who doesn't!?). But more than slapping my keyboard until green, red and gold colors streak beautifully across my screen, I enjoy <i>building</i> stuff &mdash; designing, coding, testing and deploying. 
+<div style="text-align: center; color: red;">I love coding (who doesn't!?).</div>
+But more than slapping my keyboard until green, red and gold colors streak beautifully across my screen, I enjoy building <i>stuff</i> &mdash; designing, coding, testing and deploying. <br />
 Whenever I'm not assigned to one of the above listed missions, I may be found running (11km in ~41mins is my record!), eating ice cream, or just reading sci-fi novels.
 
 2021 does promise to be a wonderful year for me!
