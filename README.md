@@ -84,9 +84,12 @@ Whenever I'm not assigned to one of the above listed missions, I may be found ru
         <h3>Currently Learning:</h3> <br />
         <p>
         <ul>
+          Machine Learning/AI:
           <li>Pandas</li>
           <li>Matplotlib</li>
           <li>Tensorflow</li>
+          Systems Programming:
+          <li>C/C++</li>
         </ul>
       </p>
     </th>
