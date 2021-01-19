@@ -57,13 +57,37 @@ Whenever I'm not assigned to one of the above listed missions, I may be found ru
         <h3>Other Skills:</h3> <br />
         <p>
         <ul>
-          <li>Webscraping: Python</li>
+          <li>Webscraping: Python[BeautifulSoup4, ScraPy, Selenium Web Driver]</li>
           <li>Desktop Software Development: Electron.js</li>
           <li>Database Design/ Management: SQL </li>
         </ul>
       </p>
     </th>
    </tr>
+   <tr>
+    <th>
+      <em>My portfolio:</em>
+      <p class="col-4">
+        <h3>Data Science:</h3> <br />
+        <p>
+        <ul>
+          <li>Data Analysis: Python[NumPy, Pandas, Matplotlib]
+        </ul>
+      </p>
+    </th>
+    <th>
+      <em>My portfolio:</em>
+      <p class="col-4">
+        <h3>Currently Learning:</h3> <br />
+        <p>
+        <ul>
+          <li>Pandas</li>
+          <li>Matplotlib</li>
+          <li>Tensorflow</li>
+        </ul>
+      </p>
+    </th>
+  </tr>
  </table>
  
  <a href="https://flashup24.com/icheka"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/>
