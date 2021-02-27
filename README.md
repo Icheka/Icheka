@@ -5,7 +5,10 @@
 <h1 align="center">Icheka Ozuru</h1>
 <h3 align="center">Harry Potter of PHP</h3>
 <h4 align="center">
-  Ex: Lead Developer, BCIS. Ex: Technical Lead, Flashup SImGfx. Ex: Software Engineering Consultant, Sprinthub Mobile.
+  Senior Software Engineer, Turing Inc, Ex: Lead Developer, BCIS. Ex: Technical Lead, Flashup SImGfx. Ex: Software Engineering Consultant, Sprinthub Mobile.
+</h4>
+<h4 align="center">
+  Creator of Spin React App, Co-creator of #EndSARS App
 </h4>
 <h4 align="center">The Geeks Shall Inherit The Earth!</h4>
 <div align="center">
@@ -17,85 +20,11 @@
 
 <div style="text-align: center; color: red;">I love coding (who doesn't!?).</div>
 But more than slapping my keyboard until green, red and gold colors streak beautifully across my screen, I enjoy building <i>stuff</i> &mdash; designing, coding, testing and deploying. <br />
-Whenever I'm not assigned to one of the above listed missions, I may be found running (11km in ~41mins is my record!), eating ice cream, or just reading sci-fi novels.
+Whenever I'm not assigned to one of the above-listed missions, I may be found running (11km in ~41mins is my record!), eating ice cream, or just reading sci-fi novels.
 
 2021 does promise to be a wonderful year for me!
 
-<table>
-  <tr>
-    <th>
-      <em>My portfolio:</em>
-      <p class="col-4">
-        <h3>Full-stack Web Development:</h3> <br />
-        <p>
-        <ul>
-          <li>HTML5</li>
-          <li>CSS3</li>
-          <li>JavaScript (including JSX and ECMAScript 2020)</li>
-          <li>OOP PHP</li>
-          <li>PHP CodeIgniter</li>
-          <li>SQL & MySQL</li>
-          <li>Node.js & Express.js</li>
-          <li>MongoDB & Mongoose</li>
-          <li>React.js</li>
-          <li>Vue.js</li>
-          <li>TypeScript</li>
-          <li>Sass</li>
-        </ul>
-      </p>
-    </th>
-    <th>
-      <em>My portfolio:</em>
-      <p class="col-4">
-        <h3>Cross-platform Mobile Development:</h3> <br />
-        <p>
-        <ul>
-          <li>React Native</li>
-        </ul>
-      </p>
-    </th>
-    <th>
-      <em>My portfolio:</em>
-      <p class="col-4">
-        <h3>Other Skills:</h3> <br />
-        <p>
-        <ul>
-          <li>Webscraping: Python[BeautifulSoup4, ScraPy, Selenium Web Driver]</li>
-          <li>Desktop Software Development: Electron.js</li>
-          <li>Database Design/ Management: SQL </li>
-        </ul>
-      </p>
-    </th>
-   </tr>
-   <tr>
-    <th>
-      <em>My portfolio:</em>
-      <p class="col-4">
-        <h3>Data Science:</h3> <br />
-        <p>
-        <ul>
-          <li>Data Analysis: Python[NumPy, Pandas, Matplotlib]
-        </ul>
-      </p>
-    </th>
-    <th>
-      <em>My portfolio:</em>
-      <p class="col-4">
-        <h3>Currently Learning:</h3> <br />
-        <p>
-        <ul>
-          Machine Learning/AI:
-          <li>Pandas</li>
-          <li>Matplotlib</li>
-          <li>Tensorflow</li>
-          Systems Programming:
-          <li>C/C++</li>
-        </ul>
-      </p>
-    </th>
-  </tr>
- </table>
  
- <a href="https://flashup24.com/icheka"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/>
+ <!--<a href="https://flashup24.com/icheka"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/>
   My Portfolio
-</a>
+</a>-->
