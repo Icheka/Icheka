@@ -3,7 +3,9 @@
  </head>
 
 <h1 align="center">Icheka Ozuru</h1>
-<h3 align="center">Harry Potter of PHP</h3>
+<h3 align="center">
+  :sparkles: :fire: :star2: 💻
+</h3>
 <h4 align="center">
   Senior Software Engineer, Turing Inc, Ex: Lead Developer, BCIS. Ex: Technical Lead, Flashup SImGfx. Ex: Software Engineering Consultant, Sprinthub Mobile.
 </h4>
