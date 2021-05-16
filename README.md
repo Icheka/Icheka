@@ -6,8 +6,7 @@
 <h3 align="center">
   :sparkles: :fire: :star2: 💻
 </h3>
-<h4 align="center">
-  Senior Software Engineer (Web & Mobile Lead), Yokunbo Studios; Senior Software Engineer, Turing Inc, Ex: Lead Developer, BCIS. Ex: Technical Lead, Flashup SImGfx. Ex: Software Engineering Consultant, Sprinthub Mobile.
+<h4 align="center">: Senior Software Engineer (Web & Mobile Lead), Yokunbo Studios; Senior Software Engineer, Turing Inc, Ex: Lead Developer, BCIS. Ex: Technical Lead, Flashup SImGfx. Ex: Software Engineering Consultant, Sprinthub Mobile.
 </h4>
 <h3 align="center">
   Creator of Spin React App, Co-creator of #EndSARS App
