@@ -9,7 +9,7 @@
 <h4 align="center">Senior Software Engineer (Africa Projects), PlateauMed; Ex:Senior Software Engineer (Web & Mobile Lead), Yokunbo Studios; Senior Software Engineer, Turing Inc, Ex: Lead Developer, BCIS. Ex: Technical Lead, Flashup SImGfx. Ex: Software Engineering Consultant, Sprinthub Mobile.
 </h4>
 <h3 align="center">
-  <font color="red">Author of the Sonar Programming Language.</font>
+  Author of the <a href="https://github.com/Sonar-Programming-Language">Sonar Programming Language.</a>
 </h3>
 <h3 align="center">
   Creator of Spin React App Offline, Co-creator of #EndSARS App
