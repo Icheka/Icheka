@@ -6,7 +6,7 @@
 <h3 align="center">
   :sparkles: :fire: :star2: 💻
 </h3>
-<h4 align="center">Senior Software Engineer (Africa Projects), PlateauMed; Ex:Senior Software Engineer (Web & Mobile Lead), Yokunbo Studios; Senior Software Engineer, Turing Inc, Ex: Lead Developer, BCIS. Ex: Technical Lead, Flashup SImGfx. Ex: Software Engineering Consultant, Sprinthub Mobile.
+<h4 align="center">Principal Frontend Engineer, Remix Eats; Senior Software Engineer (Africa Projects), PlateauMed; Ex:Senior Software Engineer (Web & Mobile Lead), Yokunbo Studios; Senior Software Engineer, Turing Inc, Ex: Lead Developer, BCIS. Ex: Technical Lead, Flashup SImGfx. Ex: Software Engineering Consultant, Sprinthub Mobile.
 </h4>
 <h3 align="center">
   Author of the <a href="https://github.com/Sonar-Programming-Language">Sonar Programming Language.</a>
