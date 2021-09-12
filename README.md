@@ -12,7 +12,7 @@
   Author of the <a href="https://github.com/Sonar-Programming-Language">Sonar Programming Language.</a>
 </h3>
 <h3 align="center">
-  Creator of <a href="https://www.npmjs.com/package/spin-react-apps-offline">Spin React App Offline</a>, Co-creator of #EndSARS App
+  Creator of <a href="https://www.npmjs.com/package/react-native-one-time-password">React Native one-time-password</a>, <a href="https://www.npmjs.com/package/spin-react-apps-offline">Spin React App Offline</a>; Co-creator of #EndSARS App
 </h3>
 <br />
 <h4 align="center">The Geeks Shall Inherit The Earth!</h4>
