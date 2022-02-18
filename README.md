@@ -11,10 +11,10 @@
 <h3 align="center">
   Building the <a href="https://github.com/Sonar-Programming-Language">Sonar Programming Language.</a>
 </h3>
-<br />
 <h4 align="center">The Geeks Shall Inherit The Earth!</h4>
 <div align="center">
-<a href="mail-to:rhemafortune@gmail.com">Contact me</a>
+  <h3><a style="color: blue; font-size: 22px;" href="mailto:rhemafortune@gmail.com">Contact me</a></h3>
+  <br />
 
 <div style="text-align: center; color: red;">I love coding (who doesn't!?).</div>
 But more than slapping my keyboard until green, red and gold colors streak beautifully across my screen, I enjoy building <i>stuff</i> &mdash; designing, coding, testing and deploying. <br />
