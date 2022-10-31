@@ -6,8 +6,6 @@
 <h3 align="center">
   :sparkles: :fire: :star2: 💻
 </h3>
-<h4 align="center">Building Steward <a href="https://joinsteward.com">https://joinsteward.com</a>, Ex: CTO, Strabo Capital Ltd., Ex:Principal Software Engineer, Remix Eats; Ex:Senior Software Engineer (Africa Projects), PlateauMed; Ex:Senior Software Engineer (Web & Mobile Lead), Yokunbo Studios; Senior Software Engineer, Turing Inc, Ex: Lead Developer, BCIS. Ex: Technical Lead, Flashup SImGfx. Ex: Software Engineering Consultant, Sprinthub Mobile.
-</h4>
 <h3 align="center">
   Building the <a href="https://github.com/Icheka/sonar-lang">Sonar Programming Language.</a>
 </h3>
